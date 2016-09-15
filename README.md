@@ -20,4 +20,3 @@ fix line api.py
 
         self.transport.open()
         self.transport_in.open()
-''
