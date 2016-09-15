@@ -4,8 +4,8 @@ webkit2png Install Link : https://github.com/adamn/python-webkit2png
 
 must install line.<br>
 line Install Link : http://carpedm20.github.io/line/index.html
-fix line api.py
-''
+fix line api.py <br>
+
         self.transport    = THttpClient.THttpClient(self.LINE_HTTP_URL)
         self.transport_in = THttpClient.THttpClient(self.LINE_HTTP_IN_URL)
 
